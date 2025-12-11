@@ -5,7 +5,7 @@
 - 💼 I’m currently working as a **MERN Full Stack Developer**
 - 🚀 I build **Guest House Booking Systems**, **E-commerce Web Apps**, and modern full-stack solutions
 - 🌱 Improving my skills in **React, Node.js, Express, MongoDB & Tailwind CSS**
-- 📫 Reach me at: **kidist.gashaw29@gmail.com**
+- 📫 Reach me at: **kidkidist87@gmail.com**
 - 🔗 Connect with me on LinkedIn: **https://linkedin.com/in/kid-webdev**
 - 🌐 Personal Portfolio: **Coming Soon**
 
